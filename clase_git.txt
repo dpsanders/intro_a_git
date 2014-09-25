@@ -1,1 +1,3 @@
 En esta clase estamos aprendiendo git.
+
+Ésta es una nueva línea.
